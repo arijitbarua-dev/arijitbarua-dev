@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github_banner.png" alt="Arijit Barua Turza - AI-Driven Full Stack Developer" width="100%" />
+  <img src=""C:\Users\ariji\Downloads\github_banner.png"" alt="Arijit Barua Turza - AI-Driven Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ARIJIT BARUA TURZA</h1>
