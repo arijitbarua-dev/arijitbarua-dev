@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm ARIJIT BARUA TURZA</h1>
 
 <h3 align="center">
-  Building scalable web applications from Bangladesh 🇧🇩
+  Building scalable web applications from Bangladesh
 </h3>
 
 <p align="center">
