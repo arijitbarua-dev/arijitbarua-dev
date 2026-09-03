@@ -198,18 +198,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- PINNED-REPOSITORIES:START -->
-
-<p align="center">
-  <i>Your pinned repositories will appear here automatically.</i>
-</p>
-
-<!-- PINNED-REPOSITORIES:END -->
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
