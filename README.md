@@ -1,43 +1,35 @@
-## Profile snapshot
+<h1 align="center">Hi 👋, I'm ARIJIT BARUA TURZA</h1>
+<h3 align="center">Building scalable web applications from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=arijitbarua-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226696569%3Fu%3Decb9c94a863fe49af22e80eeae76de75124ba017%26v%3D4" alt="arijitbarua-dev hero visual" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arijitbarua-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arijitbarua-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijitbarua-dev" alt="arijitbarua-dev" /></a> </p>
+
+- 🔭 I’m currently working on **AI-powered full-stack web applications**
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, TypeScript**
+
+- 👯 I’m looking to collaborate on **Open-source web development and AI projects**
+
+- 🤝 I’m looking for help with **Advanced system design, cloud deployment & scalable architectures**
+
+- 💬 Ask me about **Python, REST APIs, Git/GitHub & web development**
+
+- 📫 How to reach me **arijit.barua.turza@g.bracu.ac.bd**
+
+- ⚡ Fun fact **I enjoy turning “this should be easy” into a full-stack project.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/arijit.barua.2024?rdid=e9ewkartywkwbgd9&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f1qdkxzqxgo%2f#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arijit.barua.2024?rdid=e9ewkartywkwbgd9&share_url=https%3a%2f%2fwww.facebook.com%2fshare%2f1qdkxzqxgo%2f#" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_.clevatess._?igsi=zmy0zgrsawv6ahjl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.clevatess._?igsi=zmy0zgrsawv6ahjl" height="30" width="40" /></a>
 </p>
 
-**Arijit Barua** · Frontend or full-stack engineer
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## About
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arijitbarua-dev&show_icons=true&locale=en&layout=compact" alt="arijitbarua-dev" /></p>
 
-CSE Student at Brac University | Building scalable web applications with Python, Django &amp; modern JavaScript | Interested in AI-Driven Full Stack Developer
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arijitbarua-dev&show_icons=true&locale=en" alt="arijitbarua-dev" /></p>
 
-- 📍 Based in **Chittagong, Bangladesh**
-- 👥 **0** followers · **0** following
-
-## Proof at a glance
-
-<table>
-<tr><td align="center"><b>6</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>148</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Core toolkit
-
-`Blade` ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## Selected work
-
-- **[arijitbarua-dev](https://github.com/arijitbarua-dev/arijitbarua-dev)** — Featured public work · ⭐ 0
-- **[OOP](https://github.com/arijitbarua-dev/OOP)** — Object-Oriented Programming. It is a way of writing computer code by grouping data and actions together into items called &quot;objects&quot;. Instead of just writing a long list of steps, programmers build models of real things. · ⭐ 0
-- **[TourEase-Temporary](https://github.com/arijitbarua-dev/TourEase-Temporary)** — Backup and temporary file of TourEase Project · ⭐ 0
-- **[B14-A1](https://github.com/arijitbarua-dev/B14-A1)** — Assignment 1 of Programming Hero (BATCH-14) · ⭐ 0
-- **[Portfolio-Website](https://github.com/arijitbarua-dev/Portfolio-Website)** — Portfolio website using only HTML &amp; CSS · ⭐ 0
-- **[Travel-Navigator-Explorer](https://github.com/arijitbarua-dev/Travel-Navigator-Explorer)** — Tourism guide website · ⭐ 0
-
-## Let’s connect
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=arijitbarua-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226696569%3Fu%3Decb9c94a863fe49af22e80eeae76de75124ba017%26v%3D4" alt="arijitbarua-dev social visual" />
-</p>
-
-<a href="https://github.com/arijitbarua-dev">GitHub</a>
-
-<p align="center"><sub>Arijit Barua · Recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijitbarua-dev&" alt="arijitbarua-dev" /></p>
