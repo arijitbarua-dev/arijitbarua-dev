@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./github_banner.png"
+    alt="Arijit Barua Turza - AI-Driven Full Stack Developer"
+    width="100%"
+  />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm ARIJIT BARUA TURZA</h1>
 <h3 align="center">Building scalable web applications from Bangladesh</h3>
 
