@@ -12,10 +12,6 @@
   Building scalable web applications from Bangladesh
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijitbarua-dev&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
