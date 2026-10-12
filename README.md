@@ -128,6 +128,37 @@
 
 ---
 
+<!-- CONNECT & COLLABORATE -->
+## CONNECT & COLLABORATE
+
+<h3 align="center" style="font-size: 1.5em; margin-bottom: 5px;">Looking for a Personal Web Developer?</h3>
+
+<p align="center">
+  Need a modern, responsive, and scalable web application? I build full-stack solutions using MongoDB, Express.js, React, and Node.js, from business websites to dynamic web applications and APIs.
+</p>
+
+<p align="center">
+  <strong>Have a project in mind? Let's discuss your idea and build something great together.</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arijit-barua-turza" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:arijit.barua.turza@g.bracu.ac.bd">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_.clevatess._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   ⭐ If you like my work, consider giving my repositories a star!
 </p>
