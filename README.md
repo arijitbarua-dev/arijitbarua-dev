@@ -89,10 +89,10 @@
 
 <!-- GITHUB PERFORMANCE -->
 
-📊 GITHUB PERFORMANCE
-GitHub Contributions
+## 📊 GITHUB PERFORMANCE
+### GitHub Contributions
 
-<p align="center"> <img src="https://github.pumbas.net/api/contributions/YOURGITHUBUSERNAME" alt="GitHub Contributions" /> </p>
+<p align="center"> <img src="https://github.com/arijitbarua-dev" alt="GitHub Contributions" /> </p>
 
 ## 📊 GitHub Stats
 
