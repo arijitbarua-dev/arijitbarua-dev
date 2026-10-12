@@ -92,7 +92,12 @@
 ## 📊 GITHUB PERFORMANCE
 ### GitHub Contributions
 
-<p align="center"> <img src="https://github.com/arijitbarua-dev" alt="GitHub Contributions" /> </p>
+<p align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/arijitbarua-dev"
+    alt="Arijit Barua's GitHub Contributions"
+  />
+</p>
 
 ## 📊 GitHub Stats
 
