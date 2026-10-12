@@ -129,7 +129,7 @@
 ---
 
 <!-- CONNECT & COLLABORATE -->
-## CONNECT & COLLABORATE
+## 🙌 CONNECT & COLLABORATE
 
 <h3 align="center" style="font-size: 1.5em; margin-bottom: 5px;">Looking for a Personal Web Developer?</h3>
 
@@ -150,10 +150,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:arijit.barua.turza@g.bracu.ac.bd">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_.clevatess._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
 
